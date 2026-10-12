@@ -7,3 +7,4 @@ TC03 - Đăng nhập thất bại khi bỏ trống email
 TC04 - Đăng xuất khỏi hệ thống
 TC05 - Đổi mật khẩu thành công
 TC06 - Multi click button khi đổi mật khẩu
+TC07 - Network disconect
